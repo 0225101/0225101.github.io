@@ -545,6 +545,9 @@ h5{
 	height: 500px;
 	float: left;
 }
+iframe{
+	width:100%;
+}
 .footer .inf1{
 	width:0;
 	height: 0;
@@ -671,7 +674,8 @@ ul li a:hover {
 	height: 400px;
 }
 .container{
-	width: 576px;
+	/* width: 576px; */
+	width:100%;
 	margin: 0 auto;
 }
 .about{
